@@ -8,6 +8,13 @@ This project has been created to get initialize with some features to use for pr
 
 Also it has some exercises to use emacs or vim as text editor and some git exercises to introduce the basics of git and github and it help for projects development.
 
+## Projects:
+
+### [Vagrant project] (0x00-vagrant)
+
+Made it for installation make the installation for virtual environment to work with ubuntu SO.
+
+
 ## Author
 
 Luis Medina
