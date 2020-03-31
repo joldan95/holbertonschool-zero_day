@@ -22,7 +22,7 @@ Made it to make the installation and initiation on Emacs console editor
 
 Made it to make the installation and initiation on Vi console editor
 
-#### [Git project](0x02-vi)
+#### [Git project](0x03-git)
 
 Made it to make the installation and first steps into git tool to start the version control of the files
 
